@@ -1,0 +1,36 @@
+URxvt.scrollBar: false
+!URxvt*font: xft:mplus-1m:size=15:antialias=true
+
+URxvt.cursorBlink : 0
+URxvt.font        : xft:iosevka:size=11
+URxvt.boldFont    : xft:iosevka:size=11
+URxvt.italicFont  : xft:iosevka:size=11
+
+URxvt.lineSpace           : 3
+URxvt.letterSpace         : 2
+!URxvt.letterSpace: -1
+URxvt.internalBorder      : 32
+URxvt.cursorUnderline     : false
+URxvt.geometry            : 70x35
+URxvt.thickness           : 5
+URxvt.titleBar            : false
+URxvt.intensityStyles     : false
+urxvt*foreground: #899BA6
+urxvt*background: #3C4C55
+urxvt*cursorColor: #d0d0d0
+urxvt*color15: #E6EEF3
+urxvt*color14: #7FC1CA
+urxvt*color13: #D18EC2
+urxvt*color12: #83AFE5
+urxvt*color11: #DADA93
+urxvt*color10: #A8CE93
+urxvt*color9: #F2C38F
+urxvt*color8: #899BA6
+urxvt*color7: #C5D4DD
+urxvt*color6: #7FC1CA
+urxvt*color5: #9A93E1
+urxvt*color4: #83AFE5
+urxvt*color3: #DADA93
+urxvt*color2: #A8CE93
+urxvt*color1: #DF8C8C
+urxvt*color0: #3C4C55
